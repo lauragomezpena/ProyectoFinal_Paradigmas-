@@ -1,2 +1,3 @@
-Proyecto Final- Taxi Driver
-Ana Rogríguez Jaraba y Laura Gómez Peña
+**Proyecto Final - Taxi Driver**  
+Ana Rodríguez Jaraba y Laura Gómez Peña
+
